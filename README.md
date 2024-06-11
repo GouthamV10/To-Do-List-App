@@ -9,11 +9,13 @@ The app allows users to create a to-do list, add tasks, mark tasks as completed,
 ## Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    ```
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd your-repo
    ```
@@ -26,6 +28,7 @@ The app allows users to create a to-do list, add tasks, mark tasks as completed,
 ## Usage
 
 - **Start the development server:**
+
   ```bash
   npm start
   ```
@@ -76,3 +79,11 @@ To learn React Native, check out the [React Native documentation](https://reactn
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+<div align="center">
+  <img src="./assets/ss/ss%20(1).jpg" alt="Image Alt Text" width="200"/>
+  <img src="./assets/ss/ss%20(2).jpg" alt="Image Alt Text" width="200"/>
+  <img src="./assets/ss/ss%20(3).jpg" alt="Image Alt Text" width="200"/>
+  <img src="./assets/ss/ss%20(4).jpg" alt="Image Alt Text" width="200"/>
+  <img src="./assets/ss/ss%20(5).jpg" alt="Image Alt Text" width="200"/>
+</div>
